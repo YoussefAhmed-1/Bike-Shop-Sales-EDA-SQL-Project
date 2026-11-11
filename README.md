@@ -81,24 +81,6 @@ The initialization script is:
 
 - `00_init_database.sql` – Creates and populates the database using the provided CSV files.
 
-## 📈 Key Learning Outcomes
-
-Through this project, I gained practical experience in:
-
-- Working with relational databases.
-- Writing SQL queries for business data analysis.
-- Exploring structured datasets.
-- Preparing databases using CSV files.
-- Organizing SQL scripts into a structured analytical workflow.
-- Understanding how SQL can support business analysis.
-
-## 🚀 Future Improvements
-
-- Expand the analysis with additional business questions.
-- Develop more detailed sales performance metrics.
-- Identify trends and patterns in sales data.
-- Build an interactive dashboard using Power BI.
-
 ## 👤 Author
 
 **Youssef Ahmed**
